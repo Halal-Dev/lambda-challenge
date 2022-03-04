@@ -1,0 +1,8 @@
+site_name: LuaLambda
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Usage : usage.md
+    - About: about.md
+
+theme: readthedocs
